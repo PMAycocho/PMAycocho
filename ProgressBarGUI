@@ -1,0 +1,10 @@
+package progressBarGUI;
+
+public class progressBarGUI2 {
+	
+	public static void main(String [] args) {
+		
+		progressbar pb = new progressbar();
+	}
+
+}
